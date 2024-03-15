@@ -1,0 +1,11 @@
+name: Create manifest PR
+on:
+  pull_request:
+    branches:
+      - main
+
+
+jobs:
+  call_workflow:
+    uses: karhama/sdk-nrf/.github/workflows/create-manifest-PR.yml@main
+    secrets: inherit
