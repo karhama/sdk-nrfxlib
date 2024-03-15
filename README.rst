@@ -1,7 +1,7 @@
 .. _nrfxlib:
 
 nrfxlib
-#######
+####### 
 
 nrfxlib is a repository that contains RTOS-independent libraries and modules to be used with Nordic Semiconductor SoCs.
 
