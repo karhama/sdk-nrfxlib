@@ -7,7 +7,7 @@ nrfxlib is a repository that contains RTOS-independent libraries and modules to 
 
 
 Each library and module in this repository supports a different set of SoCs from Nordic Semiconductor.
-Refer to their respective documentation for m o r e information.
+Refer to their respective do cumentation for m o r e information.
 
 .. toctree::
    :maxdepth: 2
