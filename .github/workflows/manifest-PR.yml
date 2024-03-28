@@ -8,6 +8,6 @@ on:
 
 jobs:
   call_workflow:
-    uses: nordicbuilder/action-manifest-pr/.github/workflows/auto-manifest-pr.yml@main
+    uses: karhama/action-manifest-pr/.github/workflows/auto-manifest-pr.yml@main
     secrets:
        NB_TOKEN: ${{ secrets.NCS_GITHUB_TOKEN }}
